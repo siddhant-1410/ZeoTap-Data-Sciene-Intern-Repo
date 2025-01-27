@@ -1,4 +1,4 @@
-# ZeoTap-Data-Sciene-Intern-Repo
+# ZeoTap-Data-Science-Intern-Repo
 Repository Regarding Assignment Submission for ZeoTap's Data Science Intern Position.
 
 # The Repository Contains -
